@@ -1,0 +1,55 @@
+.estilo{
+    background-color:yellowgreen;
+    text-align: center;
+    size: initial;
+    margin-top: initial;
+    color: black;
+    font-size: unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+
+}
+
+.h1{
+background-color:blue;
+text-align: center;
+size: initial;
+margin-top: initial;
+color:black;
+font-size: unset;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+}
+
+.h2{
+    background-color: brown;
+    text-align: center;
+    size: initial;
+    margin-top: initial;
+    color: black;
+    font-size: unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#index{
+    background-color: yellow (0, 255, 191);
+    text-align: center;
+    size: initial;
+    margin-top: initial;
+    color: indianred;
+    font-size: unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+#h1{
+    background-color: green (0, 255, 191);
+    text-align: center; 
+    size: initial;
+    margin-top: initial;
+    color: black;
+    font-size: unset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
